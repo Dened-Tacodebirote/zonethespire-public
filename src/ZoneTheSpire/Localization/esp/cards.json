@@ -1,0 +1,14 @@
+{
+  "ZONETHESPIRE-AUTOMATON_FORM.description": "Obtienes {StrengthPower:diff()} de [gold]fuerza[/gold].\nObtienes {ArtifactPower:diff()} de [gold]artefacto[/gold].\nObtienes {PlatingPower:diff()} de [gold]revestimiento[/gold].",
+  "ZONETHESPIRE-AUTOMATON_FORM.title": "Forma Automatizada",
+  "ZONETHESPIRE-COLOUR_THIEF.description": "Elijes una de {PrismaticRules.ColourThiefChoices} cartas al azar de otro personaje para añadir a tu [gold]mano[/gold]. Se puede jugar sin costo este turno.",
+  "ZONETHESPIRE-COLOUR_THIEF.title": "Ladrón Prismático",
+  "ZONETHESPIRE-INQUISITORS_WRATH.description": "Inflinge daño por un valor equivalente a la [gold]{@hallowed.hallowed}[/gold].{InCombat:\n(Inflinges {CalculatedDamage:diff()} de daño)|}",
+  "ZONETHESPIRE-INQUISITORS_WRATH.title": "Ira del inquisidor",
+  "ZONETHESPIRE-LANTERN_LIGHT.description": "Revela el plan de los enemigos este turno{IsMultiplayer: (solo tú puedes verlo)|}. Revela las cartas con [gold]{@shadow.shaded}[/gold] en tu [gold]mano[/gold]. Recuperas [blue]{Heal:diff()}[/blue] PV. Obtienes [blue]{StrengthPower:diff()}[/blue] de [gold]fuerza[/gold] y [blue]{DexterityPower:diff()}[/blue] de [gold]destreza[/gold]. Pierdes [blue]5[/blue] de [gold]condena[/gold].",
+  "ZONETHESPIRE-LANTERN_LIGHT.title": "Luz de Linterna",
+  "ZONETHESPIRE-LIGHT_THE_WAY.description": "Revela el plan de los enemigos este turno{IsMultiplayer: (solo tú puedes verlo)|}. Revela las cartas con [gold]{@shadow.shaded}[/gold] en tu [gold]mano[/gold]. Pierdes [blue]10[/blue] de [gold]condena[/gold].",
+  "ZONETHESPIRE-LIGHT_THE_WAY.title": "{@shadow.light_the_way}",
+  "ZONETHESPIRE-SCRAPYARD_AUTOMATON.description": "Al robar esta carta, pierdes {Energy:energyIcons()}.\nTras {Combats:diff()} {Combats:plural:combat|combats}, se transforma en [gold]Forma Automatizada[/gold].",
+  "ZONETHESPIRE-SCRAPYARD_AUTOMATON.title": "Autómata Deshechado"
+}
